@@ -5,7 +5,7 @@
 
 # 스터디 진행 방식
 
-- 매주 토요일에 출제되는 4개의 문제를 Java 언어로 금요일까지 풀어서 PR(Pull Request)한다. [PR 방법](https://www.acmicpc.net/problem/tags)
+- 매주 토요일에 출제되는 4개의 문제를 Java 언어로 금요일까지 풀어서 PR(Pull Request)한다. [PR 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - `PR` 본문에는 문제를 풀면서 느꼈던 점이나 접근 방법, 새로 알게된 점, 어려웠던 점 등을 적는다.
 - `PR은 금요일 오후 6시 전까지 반드시 제출!!`
 - 금요일 리뷰가 완료되면 merge를 진행한다.
