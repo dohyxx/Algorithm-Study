@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm-Study.iml" filepath="$PROJECT_DIR$/Algorithm-Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/dohyun/dohyun.iml" filepath="$PROJECT_DIR$/dohyun/dohyun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yein/yein.iml" filepath="$PROJECT_DIR$/yein/yein.iml" />
     </modules>
   </component>
 </project>
