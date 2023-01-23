@@ -29,6 +29,18 @@
 # 문제
 
 <details markdown="1">
+<summary><strong>🐶 2주차: 2023-01-21 ~ 2023-01-27</strong></summary>
+<br/>
+
+|                     문제번호                      |   문제이름    |        문제유형         |   난이도   |  풀이여부   |
+|:---------------------------------------------:|:---------:|:-------------------:|:-------:|:-------:|
+| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | &#9744; |
+| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |  올바른 괄호   | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
+| [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)  |    폰켓몬    |     `해시(Hash)`      | Level 1 | &#9744; |
+</details>
+
+
+<details markdown="1">
 <summary><strong>🐣 1주차: 2023-01-14 ~ 2023-01-20</strong></summary>
 <br/>
 
@@ -38,3 +50,5 @@
 | [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | `문자열` | 실버 5  | :white_check_mark: |
 | [1427](https://www.acmicpc.net/problem/1427) |  소트인사이드  | `문자열` | 실버 5  | :white_check_mark: |
 </details>
+
+
