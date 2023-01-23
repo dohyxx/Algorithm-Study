@@ -34,7 +34,7 @@
 
 |                     문제번호                     |   문제이름   | 문제유형  |  난이도  | 풀이여부 |
 |:--------------------------------------------:|:--------:|:-----:|:-----:| :------: |
-| [1157](https://www.acmicpc.net/problem/1157) |  단어 공부   | `문자열` | 브론즈 1 | &#9744; |
-| [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | `문자열` | 실버 5  | &#9744; |
-| [1427](https://www.acmicpc.net/problem/1427) |  소트인사이드  | `문자열` | 실버 5  | &#9744; |
+| [1157](https://www.acmicpc.net/problem/1157) |  단어 공부   | `문자열` | 브론즈 1 | :white_check_mark: |
+| [1316](https://www.acmicpc.net/problem/1316) | 그룹 단어 체커 | `문자열` | 실버 5  | :white_check_mark: |
+| [1427](https://www.acmicpc.net/problem/1427) |  소트인사이드  | `문자열` | 실버 5  | :white_check_mark: |
 </details>
