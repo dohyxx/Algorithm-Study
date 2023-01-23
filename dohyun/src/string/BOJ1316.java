@@ -1,29 +1,42 @@
 package string;
 
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
 public class BOJ1316 {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int num = sc.nextInt();
-        int cnt = num;
+    static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        for(int c = 0;c<num;c++) {
-            String str = sc.next();
-            boolean arr[] = new boolean[26];
+    public static void main(String[] args) throws IOException{
+        int num = Integer.parseInt(br.readLine());
+        int count = 0;
 
-            for(int i=0; i<str.length()-1; i++) {
-                if(str.charAt(i) != str.charAt(i+1)) {
-                    if(arr[str.charAt(i+1)-97] == true) {
-                        cnt--;
-                        break;
+        for(int i=0; i<num; i++){
+            if(isGroupString()) count++;
+        }
+        System.out.println(count);
+    }
+
+    public static boolean isGroupString() throws IOException{
+        boolean[] arr = new boolean[26];
+        int previousChar = 0;
+        String str = br.readLine();
+
+        for(int i=0; i<str.length(); i++){
+            char ch = str.charAt(i);
+                if(ch != previousChar){
+                    if(!arr[ch - 'a']){
+                        arr[ch - 'a'] = true;
+                        previousChar = ch;
+                    }else{
+                        return false;
                     }
                 }
-                arr[str.charAt(i) - 97]=true;
-            }
         }
-        System.out.println(cnt);
+        return true;
     }
 }
+
 
 
 
