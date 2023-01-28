@@ -36,7 +36,6 @@
 |:---------------------------------------------:|:---------:|:-------------------:|:-------:|:-------:|
 | [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | &#9744; |
 | [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |  올바른 괄호   | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
-| [1845](https://school.programmers.co.kr/learn/courses/30/lessons/1845)  |    폰켓몬    |     `해시(Hash)`      | Level 1 | &#9744; |
 </details>
 
 
