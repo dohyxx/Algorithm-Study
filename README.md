@@ -29,7 +29,7 @@
 # 문제
 
 <details markdown="1">
-<summary><strong>🦊 4주차: 2023-02-12 ~ 2023-02-18</strong></summary>
+<summary><strong>🦊 5주차: 2023-02-12 ~ 2023-02-18</strong></summary>
 <br/>
 
 |                                   문제번호                                   | 문제이름 |    문제유형    |   난이도   |  풀이여부   |
