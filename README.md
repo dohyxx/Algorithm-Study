@@ -5,9 +5,9 @@
 
 # 스터디 진행 방식
 
-- 매주 토요일에 출제되는 4개의 문제를 Java 언어로 금요일까지 풀어서 PR(Pull Request)한다. [PR 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+- 매주 일요일에 출제되는 4개의 문제를 Java 언어로 금요일까지 풀어서 PR(Pull Request)한다. [PR 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - `PR` 본문에는 문제를 풀면서 느꼈던 점이나 접근 방법, 새로 알게된 점, 어려웠던 점 등을 적는다.
-- `PR은 금요일 오후 6시 전까지 반드시 제출!!`
+- `PR은 토요일 오후 6시 전까지 반드시 제출!!`
 - 금요일 리뷰가 완료되면 merge를 진행한다.
 - **`문제가 안 풀려도, 절대 처음부터 찾아보지말고 혼자 생각해본다.`**
 
@@ -28,14 +28,15 @@
 
 # 문제
 
+
 <details markdown="1">
 <summary><strong>🐶 2주차: 2023-01-21 ~ 2023-01-27</strong></summary>
 <br/>
 
-|                     문제번호                      |   문제이름    |        문제유형         |   난이도   |  풀이여부   |
-|:---------------------------------------------:|:---------:|:-------------------:|:-------:|:-------:|
-| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 | &#9744; |
-| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |  올바른 괄호   | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
+|                     문제번호                      |   문제이름    |        문제유형         |   난이도   |  풀이여부 |
+|:---------------------------------------------:|:---------:|:-------------------:|:-------:|:----:|
+| [12906](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | 같은 숫자는 싫어 | `스택/큐(Stack/Queue)` | Level 1 |    :white_check_mark:  |
+| [12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) |  올바른 괄호   | `스택/큐(Stack/Queue)` | Level 2 | :white_check_mark: |
 </details>
 
 
