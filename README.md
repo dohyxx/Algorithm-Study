@@ -29,13 +29,24 @@
 # 문제
 
 <details markdown="1">
+<summary><strong>🌞 6주차: 2023-02-19 ~ 2023-02-25</strong></summary>
+<br/>
+
+|                                   문제번호                                   |  문제이름  | 문제유형 |   난이도   |  풀이여부   |
+|:------------------------------------------------------------------------:|:------:|:----:|:-------:|:-------:|
+| [42748](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |  k번째수  | `정렬` | Level 1 | &#9744; |
+| [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 가장 큰 수 | `정렬` | Level 2 | &#9744; |
+</details>
+
+
+<details markdown="1">
 <summary><strong>🦊 5주차: 2023-02-12 ~ 2023-02-18</strong></summary>
 <br/>
 
 |                                   문제번호                                   | 문제이름 |    문제유형    |   난이도   |  풀이여부   |
 |:------------------------------------------------------------------------:|:----:|:----------:|:-------:|:-------:|
-| [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |  모의고사  |   `완전탐색`   | Level 1 | &#9744; |
-| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 최소직사각형 |  `완전탐색`  | Level 1 | &#9744; |
+| [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |  모의고사  |   `완전탐색`   | Level 1 |    :white_check_mark:     |
+| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 최소직사각형 |  `완전탐색`  | Level 1 | :white_check_mark: |
 </details>
 
 
