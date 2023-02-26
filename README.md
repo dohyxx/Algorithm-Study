@@ -29,6 +29,20 @@
 # 문제
 
 <details markdown="1">
+<summary><strong>🐧 7주차: 2023-02-26 ~ 2023-03-04</strong></summary>
+<br/>
+
+|                                   문제번호                                   |  문제이름  | 문제유형 |   난이도   |  풀이여부   |
+|:------------------------------------------------------------------------:|:------:|:----:|:-------:|:-------:|
+| [43165](https://school.programmers.co.kr/learn/courses/30/lessons/43165) |  타겟넘버 | `깊이/너비 우선 탐색(DFS/BFS)` | Level 2 |    &#9744;     |
+| [42747](https://school.programmers.co.kr/learn/courses/30/lessons/42747) |  H-Index | `정렬` | Level 2 |    &#9744;     |
+| [42839](https://school.programmers.co.kr/learn/courses/30/lessons/42839) |  소수찾기 | `완전탐색` | Level 2 |    &#9744;     |
+| [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |  기능개발 | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
+| [42587](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |  프린터  |  `스택/큐(Stack/Queue)`  | Level 2 | &#9744; |
+</details>
+
+
+<details markdown="1">
 <summary><strong>🌞 6주차: 2023-02-19 ~ 2023-02-25</strong></summary>
 <br/>
 
