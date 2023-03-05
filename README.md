@@ -5,10 +5,10 @@
 
 # 스터디 진행 방식
 
-- 매주 일요일에 출제되는 3개의 문제를 Java 언어로 토요일까지 풀어서 PR(Pull Request)한다. [PR 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+- 매주 일요일에 출제되는 3개의 문제를 Java 언어로 일요일 오후 6시까지 풀어서 PR(Pull Request)한다. [PR 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 - `PR` 본문에는 문제를 풀면서 느꼈던 점이나 접근 방법, 새로 알게된 점, 어려웠던 점 등을 적는다.
-- `PR은 토요일 오후 6시 전까지 반드시 제출!!`
-- 토요일 리뷰가 완료되면 merge를 진행한다.
+- `PR은 일요일 오후 6시 전까지 반드시 제출!!`
+- 일요일 리뷰 및 merge를 진행한다.
 - **`문제가 안 풀려도, 절대 처음부터 찾아보지말고 혼자 생각해본다.`**
 
   **`But, 1~2시간 고민해도 안 풀리는 경우 풀이를 찾아보고 자신의 접근방법, 풀이와 비교하면서 꼼꼼히 파악할 것!!`**
@@ -29,13 +29,38 @@
 # 문제
 
 <details markdown="1">
+<summary><strong>🐧 7주차: 2023-02-26 ~ 2023-03-04</strong></summary>
+<br/>
+
+|                                   문제번호                                   |    문제이름    |        문제유형         |   난이도   |  풀이여부   |
+|:------------------------------------------------------------------------:|:----------:|:-------------------:|:-------:|:-------:|
+|               [7568](https://www.acmicpc.net/problem/7568)               |     덩치     | `완전탐색(Bruteforce)`  |  실버 5   |    &#9744;     |
+|               [1436](https://www.acmicpc.net/problem/1436)               |   영화감독 숌   | `완전탐색(Bruteforce)`  |  실버 5   |    &#9744;     |
+|               [1018](https://www.acmicpc.net/problem/1018)               | 체스판 다시 칠하기 | `완전탐색(Bruteforce)`  |  실버 4   |    &#9744;     |
+| [42586](https://school.programmers.co.kr/learn/courses/30/lessons/42586) |    기능개발    | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
+| [42587](https://school.programmers.co.kr/learn/courses/30/lessons/42587) |    프린터     | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
+</details>
+
+
+<details markdown="1">
+<summary><strong>🌞 6주차: 2023-02-19 ~ 2023-02-25</strong></summary>
+<br/>
+
+|                                   문제번호                                   |  문제이름  | 문제유형 |   난이도   |  풀이여부   |
+|:------------------------------------------------------------------------:|:------:|:----:|:-------:|:-------:|
+| [42748](https://school.programmers.co.kr/learn/courses/30/lessons/42748) |  k번째수  | `정렬` | Level 1 | :white_check_mark: |
+| [42746](https://school.programmers.co.kr/learn/courses/30/lessons/42746) | 가장 큰 수 | `정렬` | Level 2 | :white_check_mark: |
+</details>
+
+
+<details markdown="1">
 <summary><strong>🦊 5주차: 2023-02-12 ~ 2023-02-18</strong></summary>
 <br/>
 
 |                                   문제번호                                   | 문제이름 |    문제유형    |   난이도   |  풀이여부   |
 |:------------------------------------------------------------------------:|:----:|:----------:|:-------:|:-------:|
-| [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |  모의고사  |   `완전탐색`   | Level 1 | &#9744; |
-| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 최소직사각형 |  `완전탐색`  | Level 1 | &#9744; |
+| [42840](https://school.programmers.co.kr/learn/courses/30/lessons/42840) |  모의고사  |   `완전탐색`   | Level 1 |    :white_check_mark:     |
+| [86491](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | 최소직사각형 |  `완전탐색`  | Level 1 | :white_check_mark: |
 </details>
 
 
@@ -45,8 +70,8 @@
 
 |                                   문제번호                                   | 문제이름 |    문제유형    |   난이도   |  풀이여부   |
 |:------------------------------------------------------------------------:|:----:|:----------:|:-------:|:-------:|
-| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 |  `스택/큐(Stack/Queue)`  | Level 2 | &#9744; |
-| [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격 | `스택/큐(Stack/Queue)` | Level 2 | &#9744; |
+| [42583](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | 다리를 지나는 트럭 |  `스택/큐(Stack/Queue)`  | Level 2 | :white_check_mark: |
+| [42584](https://school.programmers.co.kr/learn/courses/30/lessons/42584) | 주식가격 | `스택/큐(Stack/Queue)` | Level 2 | :white_check_mark: |
 </details>
 
 
