@@ -29,15 +29,29 @@
 # 문제
 
 <details markdown="1">
+<summary><strong>🦉 9주차: 2023-03-12 ~ 2023-03-18</strong></summary>
+<br/>
+
+|                      문제번호                      |  문제이름  |        문제유형        |   난이도   |           풀이여부           |
+|:----------------------------------------------:|:------:|:------------------:|:-------:|:------------------------:|
+|  [1343](https://www.acmicpc.net/problem/1343)  | 폴라오미노  |   `탐욕법(Greedy)`    |  실버 5   |    &#9744;    |
+| [16208](https://www.acmicpc.net/problem/16208) |  귀찮음   | `탐욕법(Greedy)` |  실버 5   |             &#9744;             |
+| [16435](https://www.acmicpc.net/problem/16435) | 스테이크버드 | `탐욕법(Greedy)` |  실버 5   |         &#9744;          |
+
+</details>
+
+
+
+<details markdown="1">
 <summary><strong>🐻 8주차: 2023-03-05 ~ 2023-03-11</strong></summary>
 <br/>
 
 |                                   문제번호                                   |           문제이름            |        문제유형        |   난이도   |           풀이여부           |
 |:------------------------------------------------------------------------:|:-------------------------:|:------------------:|:-------:|:------------------------:|
-|               [15721](https://www.acmicpc.net/problem/15721)               |            번데기            | `완전탐색(Bruteforce)` |  실버 5   |    &#9744;    |
-|               [2422](https://www.acmicpc.net/problem/2422)               | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | `완전탐색(Bruteforce)` |  실버 5   |             &#9744;             |
-|               [18511](https://www.acmicpc.net/problem/18511)               |         큰 수 구성하기          | `완전탐색(Bruteforce)` |  실버 5   |         &#9744;          |
-| [20546](https://www.acmicpc.net/problem/20546) |          기적의 매매법          |       `구현(Implementation)`       |  실버 5   |         &#9744;          |
+|               [15721](https://www.acmicpc.net/problem/15721)               |            번데기            | `완전탐색(Bruteforce)` |  실버 5   |    :white_check_mark:    |
+|               [2422](https://www.acmicpc.net/problem/2422)               | 한윤정이 이탈리아에 가서 아이스크림을 사먹는데 | `완전탐색(Bruteforce)` |  실버 5   |             :white_check_mark:             |
+|               [18511](https://www.acmicpc.net/problem/18511)               |         큰 수 구성하기          | `완전탐색(Bruteforce)` |  실버 5   |         :white_check_mark:          |
+| [20546](https://www.acmicpc.net/problem/20546) |          기적의 매매법          |       `구현(Implementation)`       |  실버 5   |         :white_check_mark:          |
 | [14916](https://www.acmicpc.net/problem/14916) |           거스름돈            |   `탐욕법(Greedy)`    | 실버 5 |         &#9744;          |
 </details>
 
