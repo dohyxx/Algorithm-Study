@@ -28,6 +28,8 @@
 
 # 문제
 
+--- 1차 스터디 종료 ---
+
 <details markdown="1">
 <summary><strong>🐌 10주차: 2023-03-19 ~ 2023-03-25</strong></summary>
 <br/>
